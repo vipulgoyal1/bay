@@ -51,7 +51,7 @@
     ],
     "imageResize": true,
     "favicon": "@PROJECT_PATH@/assets/images/logo-48x48.png",
-    "mbrsiteDomain": "zxgxueblim",
+    "mbrsiteDomain": "s8fewy7kax",
     "usedWebp": false,
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
@@ -72,7 +72,7 @@
         "main": true,
         "title": "Flat Fee Cash Back Agent Bay Area",
         "meta_descr": "Highest Cashback in SF Bay Area. Top 1% Realtor. Flat Fee Realtor.",
-        "header_custom": "",
+        "header_custom": "<link rel=\"canonical\" href=\"https://bay.flatfee-realtor.com/index.html\">",
         "footer_custom": "",
         "html_before": ""
       },
@@ -849,7 +849,8 @@
       "settings": {
         "title": "Our Process",
         "order": "2",
-        "meta_descr": "Our process and fee structure"
+        "meta_descr": "Our process and fee structure",
+        "header_custom": "<link rel=\"canonical\" href=\"https://bay.flatfee-realtor.com/process.html\">"
       },
       "components": [
         {
@@ -1468,7 +1469,8 @@
         "title": "Reviews",
         "order": "3",
         "meta_descr": "Client Reviews",
-        "socialSharingUrl": ""
+        "socialSharingUrl": "",
+        "header_custom": "<link rel=\"canonical\" href=\"https://bay.flatfee-realtor.com/reviews.html\">"
       },
       "components": [
         {
@@ -2156,7 +2158,8 @@
       "settings": {
         "title": "Referrals",
         "order": "5",
-        "meta_descr": "Referral Program"
+        "meta_descr": "Referral Program",
+        "header_custom": "<link rel=\"canonical\" href=\"https://bay.flatfee-realtor.com/referrals.html\">"
       },
       "components": [
         {
@@ -2659,7 +2662,8 @@
         "order": "6",
         "socialSharingUrl": "",
         "meta_descr": "Offer Information",
-        "password_protect_password": ""
+        "password_protect_password": "",
+        "header_custom": "<link rel=\"canonical\" href=\"https://flatfee-realtor.com/offer.html\">"
       },
       "components": [
         {
@@ -3507,7 +3511,9 @@
       "settings": {
         "title": "Bay Area Buying Advice",
         "order": "1",
-        "meta_descr": "Buying a Residential Property in the Bay Area"
+        "meta_descr": "Buying a Residential Property in the Bay Area",
+        "footer_custom": "",
+        "header_custom": "<link rel=\"canonical\" href=\"https://bay.flatfee-realtor.com/advice.html\">"
       },
       "components": [
         {
@@ -4011,7 +4017,8 @@
         "title": "Contact Us",
         "order": "4",
         "socialSharingUrl": "",
-        "meta_descr": "Our founders and Contact"
+        "meta_descr": "Our founders and Contact",
+        "header_custom": "<link rel=\"canonical\" href=\"https://bay.flatfee-realtor.com/contact.html\">"
       },
       "components": [
         {
@@ -4730,7 +4737,9 @@
       "settings": {
         "title": "Privacy Policy",
         "order": "8",
-        "meta_descr": "Privacy Policy"
+        "meta_descr": "Privacy Policy",
+        "header_custom": "<link rel=\"canonical\" href=\"https://flatfee-realtor.com/privacy.html\">",
+        "footer_custom": ""
       },
       "components": [
         {
@@ -5234,7 +5243,8 @@
       "settings": {
         "title": "Terms and Conditions",
         "order": "7",
-        "meta_descr": "Terms and conditions"
+        "meta_descr": "Terms and conditions",
+        "header_custom": "<link rel=\"canonical\" href=\"https://flatfee-realtor.com/terms.html\">"
       },
       "components": [
         {
